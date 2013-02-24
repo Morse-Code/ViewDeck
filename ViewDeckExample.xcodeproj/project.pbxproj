@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0795F5D8162098E00010FFCC /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0795F5D7162098E00010FFCC /* Default-568h@2x.png */; };
 		E240A9AC148AB3770077282A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E240A9AB148AB3770077282A /* UIKit.framework */; };
 		E240A9AE148AB3770077282A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E240A9AD148AB3770077282A /* Foundation.framework */; };
 		E240A9B0148AB3770077282A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E240A9AF148AB3770077282A /* CoreGraphics.framework */; };
@@ -29,6 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0795F5D7162098E00010FFCC /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		E240A9A7148AB3770077282A /* ViewDeckExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewDeckExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E240A9AB148AB3770077282A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E240A9AD148AB3770077282A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -78,6 +80,7 @@
 		E240A99C148AB3770077282A = {
 			isa = PBXGroup;
 			children = (
+				0795F5D7162098E00010FFCC /* Default-568h@2x.png */,
 				E240A9B1148AB3770077282A /* ViewDeckExample */,
 				E240A9AA148AB3770077282A /* Frameworks */,
 				E240A9A8148AB3770077282A /* Products */,
@@ -225,6 +228,7 @@
 				E240A9EC148C51E00077282A /* bg.jpg in Resources */,
 				E2955F9914B7D678003DDB4E /* NestViewController.xib in Resources */,
 				E2B01A29155B385600E05FB9 /* PushedViewController.xib in Resources */,
+				0795F5D8162098E00010FFCC /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
